@@ -10,6 +10,6 @@ A Simple ToDo application to keep your things of need on tip
 
 
 *********************
-#Tech Stack
+# Tech Stack
 * React.js
 * Styled-Components
