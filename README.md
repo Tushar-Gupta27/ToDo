@@ -7,3 +7,9 @@ A Simple ToDo application to keep your things of need on tip
 * Don't be afraid to lose your data if you close your window somehow, we got you covered
 
 ![TODOImage](./images/appSS.png)
+
+
+*********************
+#Tech Stack
+* React.js
+* Styled-Components
