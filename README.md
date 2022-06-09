@@ -8,8 +8,11 @@ A Simple ToDo application to keep your things of need on tip
 
 ![TODOImage](./images/appSS.png)
 
-
 *********************
 # Tech Stack
 * React.js
 * Styled-Components
+
+# Upcoming Changes
+* Responsive Design
+* Ability to increase/decrease font size
